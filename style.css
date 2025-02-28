@@ -1,0 +1,6 @@
+body {
+    background-image: url("background.jpg"); /* Your Image Name */
+    background-size: cover; /* Fit full screen */
+    background-repeat: no-repeat; /* No Repeat */
+    background-position: center; /* Center Image */
+}
